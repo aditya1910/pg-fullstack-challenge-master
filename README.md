@@ -12,4 +12,7 @@ There mainly 4 pages in this web app
 2. Booking for a future date is working
 3. Delete booking working
 4. Booking can be made by an anonymous user 
+5. UI is not the same as the screenshort but can implement the same look if givem some more time
+
+
 
