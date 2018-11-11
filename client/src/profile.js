@@ -61,7 +61,7 @@ class Profile extends Component {
     const reservationObj = objectKeys.map(element => {
       return (
         <div>
-          {moment(element).format('Do MMMM YYYY')}
+          {moment(element).add(1,'days').format('Do MMMM YYYY')}
           {newObj[element].map(item => {
             return (
               <Reservation
