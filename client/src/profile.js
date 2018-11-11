@@ -91,7 +91,7 @@ const Reservation = props => {
   return (
     <ul>
       <span>{formatTime(props.data.time.split('-')[0])}</span>
-      <span>Booked By {props.data.bookedFor}</span>
+      <span>Booked By {props.data.bookedFor?props.data.bookedFor:'Anonymous'}</span>
       <button className='button button3' onClick={props.deleteBooking}>Delete</button>
     </ul>
   );
