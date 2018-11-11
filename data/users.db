@@ -1,0 +1,5 @@
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"$$indexCreated":{"fieldName":"username","unique":true,"sparse":false}}
+{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
+{"createdAt":1519037732827,"updatedAt":1519037732827,"id":1,"email":"nitinhayaran@gmail.com","password":"$2a$10$3HRQfHKTdFnbN/DWCa46QeD9WUKsGrxYUcZLYyLRJLE5nZI7Vl8vu","timezone":"America/New_York","username":"nitinhayaran","full_name":"Nitin Hayaran","_id":1}
+{"createdAt":1541500997076,"updatedAt":1541500997076,"id":2,"email":"aditya@gmail.com","password":"$2a$10$z3xJuizQV9.CvKE59kKN5OizhOpKfY5aOrBntIIEM1gFNkoaKQu8W","timezone":"Asia/Kolkata","username":"KBPoDjlW1A","full_name":"aditya","_id":2}
